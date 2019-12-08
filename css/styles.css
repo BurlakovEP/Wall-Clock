@@ -149,7 +149,7 @@ template {
   width: 27.5em;
   font-size: 14px;
   font-family: Monaco,MonoSpace;
-  margin: 0 auto;
+  margin: 15px auto 0;
   display: flex;
   justify-content: center;
   align-items: center;
